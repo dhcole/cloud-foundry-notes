@@ -18,3 +18,4 @@ content folder.
 ### Acknowledgement
 
 The theme for the site has been "forked" from the [Hugo documentation site](https://gohugo.io/docs).
+
